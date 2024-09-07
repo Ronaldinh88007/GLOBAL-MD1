@@ -128,7 +128,7 @@ async function startXeonBot() {
 
 		return {
 
-			conversation: 'Hello it's 🌊🐼🥷🗽Bot'
+			conversation: 'Hello 🌊🐼🥷🗽Bot'
 
 		}
 
