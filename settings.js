@@ -10,7 +10,7 @@ global.location = "Kenya, Nairobi, Nairobi" //ur location
 
 //new
 global.botname = '© GLOBAL-𝐌𝐃' //ur bot name
-global.ownernumber = ['254112386921'] //ur owner number, dont add more than one
+global.ownernumber = ['+88001820414108'] //ur owner number, dont add more than one
 global.ownername = '© Cyberpunk 📱🥷🐼TOpPLUG' //ur owner name
 global.websitex = "https://www.youtube.com/@Cyberpunk"
 global.wagc = "https://t.me/Hub7s"
@@ -20,8 +20,8 @@ global.botscript = 'https://github.com/Hubdarkweb/GLOBAL-MD' //script link
 global.packname = "Sticker By"
 global.author = "Cyberpunk\n\n+TopPLUG"
 global.creator = "254112386921@s.whatsapp.net"
-global.xprefix = '.'
-global.premium = ["254112386921"] // Premium User
+global.xprefix = '-'
+global.premium = ["+88001820414108"] // Premium User
 
 //channel id
 global.xchannel = {
